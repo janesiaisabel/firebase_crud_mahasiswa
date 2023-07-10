@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093155224675",
+    "project_id": "crud-mahasiswa-f955f",
+    "storage_bucket": "crud-mahasiswa-f955f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093155224675:android:27cab8c9e9fe1b19568c56",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_mahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093155224675-nt2je3ebfcgdurcnsi5guhmmkk58hpod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvCthdE3BvYYz6rrH3ePpZdLmjg5tiPVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093155224675-nt2je3ebfcgdurcnsi5guhmmkk58hpod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
